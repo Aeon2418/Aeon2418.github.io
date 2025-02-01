@@ -34,7 +34,7 @@ Since we do not collect any personal information, there is no data to delete.
 
 **7. Changes to This Privacy Policy**
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website. You are advised to review this Privacy Policy periodically for any changes.
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website here. You are advised to review this Privacy Policy periodically for any changes.
 
 **8. Contact Us**
 
