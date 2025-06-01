@@ -1,9 +1,5 @@
 # Aeon2418.github.io
 
-Got it! Here's a revised Privacy Policy for your VR game, Laser Evader:
-
----
-
 **Privacy Policy**
 
 **Effective Date:** [29/01/2025]
