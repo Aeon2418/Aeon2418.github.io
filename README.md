@@ -2,7 +2,7 @@
 
 **Privacy Policy**
 
-**Effective Date:** [29/01/2025]
+**Effective Date:** [25/01/2025]
 
 **1. Introduction**
 
