@@ -43,10 +43,12 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 ---
 
-Laser Evader VR/XR is my own property and no one allowed to use it for selling purposes, A VR game where players navigate and evade laser traps.
+The VR/XR GAMES that were listed above are my own properties and no one allowed to use them for selling purposes, These are VR games where players navigate and evade laser traps, shoot targets, play piano and other general game explorations.
 MIT License
 
 Laser Evader XR License
+2) Serenity of MindScape VR License
+3) Target VR License
 
 Copyright (c) 2025 [Aeon2418]
 
