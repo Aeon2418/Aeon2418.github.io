@@ -58,4 +58,6 @@ The Software may not be sold, distributed, or sublicensed.
 
 The Software may not be modified, merged, or published without prior written permission from the copyright holder.
 
+Note: there might be some free or paid assets that has been used in the apps. All rights belong to their respective creators.
+
 The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
