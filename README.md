@@ -10,6 +10,7 @@ Welcome to Feast & Fiction Academy GAMES OVERALL Privacy policy for the followin
 1) Laser Evader
 2) Serenity of MindScape VR
 3) Target VR
+4) Laser Evader Remake
    
 These are the VR games that were developed using Unity engine. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and protect your data.
 
